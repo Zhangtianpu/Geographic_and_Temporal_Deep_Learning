@@ -11,7 +11,11 @@
 ## Dataset
    I couldn't upload the raw data due to confidentiality, because the data was used by the government to monitor the functioning status of highways in certain areas.
 ## Model Structure
+<div align=center>
+<img src="https://github.com/Zhangtianpu/Geographic_and_Temporal_Deep_Learning/blob/master/fig/traffic%20flow%20predictoin%20method.jpg" width="70%" height="60%">
+</div>
 
+## Evaluation
 
 ## Reference
 [1] Zhang, Tianpu, et al. "Geographic and Temporal Deep Learning Method for Traffic Flow Prediction in Highway Network." Collaborative Computing: Networking, Applications and Worksharing: 17th EAI International Conference, CollaborateCom 2021, Virtual Event, October 16-18, 2021, Proceedings, Part II 17. Springer International Publishing, 2021.
