@@ -17,5 +17,13 @@
 
 ## Evaluation
 
+<div align=center>
+<img src="https://github.com/Zhangtianpu/Geographic_and_Temporal_Deep_Learning/blob/master/fig/Luoyang.png" width="40%" height="40%"><img src="https://github.com/Zhangtianpu/Geographic_and_Temporal_Deep_Learning/blob/master/fig/Zhengzhouxinqu.png" width="40%" height="40%">
+
+ <img src="https://github.com/Zhangtianpu/Geographic_and_Temporal_Deep_Learning/blob/master/fig/Prediction%20performances%20of%20different%20models.png" width="100%" height="50%">
+</div>
+
+
+
 ## Reference
 [1] Zhang, Tianpu, et al. "Geographic and Temporal Deep Learning Method for Traffic Flow Prediction in Highway Network." Collaborative Computing: Networking, Applications and Worksharing: 17th EAI International Conference, CollaborateCom 2021, Virtual Event, October 16-18, 2021, Proceedings, Part II 17. Springer International Publishing, 2021.
